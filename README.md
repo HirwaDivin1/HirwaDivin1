@@ -7,8 +7,7 @@ I am **Hirwa Divin Iradukunda**, a CS sophomore @ CCNY
 -->
 
 - 🔭 I’m currently working on becoming a Full Stack Developer
-- 🌱 I’m currently learning Front-end Web Developnment
-- 👯 I’m looking to collaborate on a Micronaut application in our club
+- 🌱 I’m currently learning Front-end Web Developnment\
 - 📫 How to reach me: hirwadivin23@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Hobbies: Video games and Reading 
