@@ -6,7 +6,8 @@ I am a Computer Science student at *The City College of New York*. I am currenlt
   - HTB CPTS (T_T)
 
 ### Certifications:
-  * [HTB Academy Transcript](./HTB_Transcript.pdf)
+  * [HTB Academy Transcript](./HTB_Academy_Student_Transcript.pdf)
+  * [CISCO Networking Basics](./CISCO_Network_Basics.pdf)
 
 
 ### Core Interests:
