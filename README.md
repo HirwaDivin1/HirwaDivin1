@@ -1,8 +1,8 @@
 Hi, I'm **Hirwa Divin Iradukunda** :D
 
-I'm a Computer Science student at *The City College of New York*. I am currenlty interested in *Offensive Cybersecurity & Artificial Intelligence*, hoping to become a **Security researcher**
+I'm a Computer Science student at *The City College of New York*, currenlty interested in *Offensive Cybersecurity & Artificial Intelligence*. I'm working to become a **Security researcher**.
 
-### What I'm currently pursuing:
+### Current pursuit:
   - HTB CPTS (T_T)
 
 ### Certifications:
