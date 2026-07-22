@@ -15,5 +15,3 @@ I'm a Computer Science student at *The City College of New York*, currenlty inte
 
 ### Hobbies:
   - Video Games
-  - Reading
-  - Hanging out
